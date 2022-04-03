@@ -1,0 +1,15 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\bin\Debug\netcoreapp3.1\1app.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\bin\Debug\netcoreapp3.1\1app.deps.json
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\bin\Debug\netcoreapp3.1\1app.runtimeconfig.json
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\bin\Debug\netcoreapp3.1\1app.runtimeconfig.dev.json
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\bin\Debug\netcoreapp3.1\1app.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\bin\Debug\netcoreapp3.1\1app.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\obj\Debug\netcoreapp3.1\_3._2._1w.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\obj\Debug\netcoreapp3.1\1app.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\obj\Debug\netcoreapp3.1\1app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\obj\Debug\netcoreapp3.1\1app.AssemblyInfoInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\obj\Debug\netcoreapp3.1\1app.AssemblyInfo.cs
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\obj\Debug\netcoreapp3.1\1app.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\obj\Debug\netcoreapp3.1\1app.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\obj\Debug\netcoreapp3.1\1app.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\2Applications\1\obj\Debug\netcoreapp3.1\1app.genruntimeconfig.cache

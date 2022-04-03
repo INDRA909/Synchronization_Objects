@@ -1,0 +1,15 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\bin\Debug\netcoreapp3.1\ProductOfVectors.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\bin\Debug\netcoreapp3.1\ProductOfVectors.deps.json
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\bin\Debug\netcoreapp3.1\ProductOfVectors.runtimeconfig.json
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\bin\Debug\netcoreapp3.1\ProductOfVectors.runtimeconfig.dev.json
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\bin\Debug\netcoreapp3.1\ProductOfVectors.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\bin\Debug\netcoreapp3.1\ProductOfVectors.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\obj\Debug\netcoreapp3.1\_3._1.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\obj\Debug\netcoreapp3.1\ProductOfVectors.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\obj\Debug\netcoreapp3.1\ProductOfVectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\obj\Debug\netcoreapp3.1\ProductOfVectors.AssemblyInfoInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\obj\Debug\netcoreapp3.1\ProductOfVectors.AssemblyInfo.cs
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\obj\Debug\netcoreapp3.1\ProductOfVectors.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\obj\Debug\netcoreapp3.1\ProductOfVectors.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\obj\Debug\netcoreapp3.1\ProductOfVectors.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Mutex\Product of vectors\obj\Debug\netcoreapp3.1\ProductOfVectors.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0fdb433-9829-4614-beeb-111da0a7163d": {
+      "ProjectGuid": "b0fdb433-9829-4614-beeb-111da0a7163d",
+      "DisplayName": "Matrix Opertions",
+      "ColorIndex": 0
+    },
+    "f6d00270-1e28-459a-9da4-356d1bbaa91f": {
+      "ProjectGuid": "f6d00270-1e28-459a-9da4-356d1bbaa91f",
+      "DisplayName": "Drawing circles",
+      "ColorIndex": 1
+    },
+    "e9f087ba-22ae-41ec-bce6-afc869cf9cfc": {
+      "ProjectGuid": "e9f087ba-22ae-41ec-bce6-afc869cf9cfc",
+      "DisplayName": "Binary tree",
+      "ColorIndex": 2
+    },
+    "5e18bd64-5d8f-4868-a62a-8d83f1d832fc": {
+      "ProjectGuid": "5e18bd64-5d8f-4868-a62a-8d83f1d832fc",
+      "DisplayName": "Block encryption",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

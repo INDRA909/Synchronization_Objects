@@ -1,0 +1,10 @@
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\bin\Debug\1.4.exe.config
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\bin\Debug\1.4.exe
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\bin\Debug\1.4.pdb
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\obj\Debug\_1._4.Form1.resources
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\obj\Debug\_1._4.Properties.Resources.resources
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\obj\Debug\1.4.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\obj\Debug\1.4.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\obj\Debug\1.4.exe
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\obj\Debug\1.4.pdb
+C:\Users\Иван\Desktop\ЗОС\1.4\1.4\1.4\obj\Debug\1.4.csproj.AssemblyReference.cache

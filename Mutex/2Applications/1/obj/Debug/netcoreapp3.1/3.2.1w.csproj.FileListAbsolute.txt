@@ -1,0 +1,47 @@
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.exe
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.deps.json
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.runtimeconfig.json
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.runtimeconfig.dev.json
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.dll
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.pdb
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.csprojAssemblyReference.cache
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\_3._2._1w.Form1.resources
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.csproj.GenerateResource.cache
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.AssemblyInfoInputs.cache
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.AssemblyInfo.cs
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.csproj.CoreCompileInputs.cache
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.dll
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.pdb
+C:\Users\bid57\OneDrive\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.genruntimeconfig.cache
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.exe
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.deps.json
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.runtimeconfig.json
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.runtimeconfig.dev.json
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.dll
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.pdb
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\_3._2._1w.Form1.resources
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.AssemblyInfo.cs
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.dll
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.pdb
+C:\Users\Иван\Desktop\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.genruntimeconfig.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.deps.json
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.runtimeconfig.json
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.runtimeconfig.dev.json
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\bin\Debug\netcoreapp3.1\3.2.1w.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\_3._2._1w.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.AssemblyInfoInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.AssemblyInfo.cs
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\СТАРЬЁ\7\ЗОС\3.2.1w\obj\Debug\netcoreapp3.1\3.2.1w.genruntimeconfig.cache

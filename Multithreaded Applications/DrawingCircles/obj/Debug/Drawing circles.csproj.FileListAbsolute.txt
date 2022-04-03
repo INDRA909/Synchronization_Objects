@@ -1,0 +1,21 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\bin\Debug\1.4.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\bin\Debug\1.4.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\bin\Debug\1.4.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\obj\Debug\Drawing circles.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\obj\Debug\Drawing circles.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\obj\Debug\_1._4.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\obj\Debug\_1._4.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\obj\Debug\Drawing circles.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\obj\Debug\Drawing circles.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\obj\Debug\1.4.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.4\1.4\1.4\obj\Debug\1.4.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\bin\Debug\1.4.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\bin\Debug\1.4.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\bin\Debug\1.4.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\obj\Debug\Drawing circles.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\obj\Debug\_1._4.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\obj\Debug\_1._4.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\obj\Debug\Drawing circles.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\obj\Debug\Drawing circles.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\obj\Debug\1.4.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\DrawingCircles\obj\Debug\1.4.pdb

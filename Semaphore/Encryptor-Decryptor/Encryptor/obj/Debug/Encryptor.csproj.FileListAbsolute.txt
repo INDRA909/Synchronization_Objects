@@ -1,0 +1,11 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\bin\Debug\4.2.1.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\bin\Debug\4.2.1.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\bin\Debug\4.2.1.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\obj\Debug\Encryptor.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\obj\Debug\Encryptor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\obj\Debug\_4._2._1.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\obj\Debug\_4._2._1.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\obj\Debug\Encryptor.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\obj\Debug\4.2.1.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\Encryptor-Decryptor\Encryptor\obj\Debug\4.2.1.pdb

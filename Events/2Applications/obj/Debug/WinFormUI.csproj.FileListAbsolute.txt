@@ -1,0 +1,12 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\obj\Debug\WinFormUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\obj\Debug\WinFormUI.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\obj\Debug\WinFormUI.Form2.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\WinFormUI\obj\Debug\WinFormUI.pdb

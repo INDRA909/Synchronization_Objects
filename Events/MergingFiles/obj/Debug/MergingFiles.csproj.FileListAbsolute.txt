@@ -1,0 +1,11 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\bin\Debug\5.3.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\bin\Debug\5.3.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\bin\Debug\5.3.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\obj\Debug\MergingFiles.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\obj\Debug\MergingFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\obj\Debug\_5._3.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\obj\Debug\_5._3.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\obj\Debug\MergingFiles.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\obj\Debug\MergingFiles.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\obj\Debug\5.3.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\MergingFiles\obj\Debug\5.3.pdb

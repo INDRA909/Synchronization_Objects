@@ -1,0 +1,14 @@
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\bin\Debug\netcoreapp3.1\1.5.exe
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\bin\Debug\netcoreapp3.1\1.5.deps.json
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\bin\Debug\netcoreapp3.1\1.5.runtimeconfig.json
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\bin\Debug\netcoreapp3.1\1.5.runtimeconfig.dev.json
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\bin\Debug\netcoreapp3.1\1.5.dll
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\bin\Debug\netcoreapp3.1\1.5.pdb
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\obj\Debug\netcoreapp3.1\1.5.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\obj\Debug\netcoreapp3.1\1.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\obj\Debug\netcoreapp3.1\1.5.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\obj\Debug\netcoreapp3.1\1.5.AssemblyInfo.cs
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\obj\Debug\netcoreapp3.1\1.5.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\obj\Debug\netcoreapp3.1\1.5.dll
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\obj\Debug\netcoreapp3.1\1.5.pdb
+C:\Users\Иван\Desktop\ЗОС\1.5\1.5\1.5\obj\Debug\netcoreapp3.1\1.5.genruntimeconfig.cache

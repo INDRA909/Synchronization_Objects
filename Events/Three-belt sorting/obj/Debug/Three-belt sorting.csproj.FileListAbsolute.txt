@@ -1,0 +1,11 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\bin\Debug\5.1.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\bin\Debug\5.1.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\bin\Debug\5.1.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\obj\Debug\Three-belt sorting.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\obj\Debug\Three-belt sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\obj\Debug\_5._1.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\obj\Debug\_5._1.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\obj\Debug\Three-belt sorting.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\obj\Debug\Three-belt sorting.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\obj\Debug\5.1.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Events\Three-belt sorting\obj\Debug\5.1.pdb

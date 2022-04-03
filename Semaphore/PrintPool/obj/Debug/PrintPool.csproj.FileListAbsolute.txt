@@ -1,0 +1,11 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\bin\Debug\4.1.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\bin\Debug\4.1.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\bin\Debug\4.1.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\obj\Debug\PrintPool.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\obj\Debug\PrintPool.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\obj\Debug\_4._1.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\obj\Debug\_4._1.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\obj\Debug\PrintPool.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\obj\Debug\PrintPool.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\obj\Debug\4.1.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Semaphore\PrintPool\obj\Debug\4.1.pdb

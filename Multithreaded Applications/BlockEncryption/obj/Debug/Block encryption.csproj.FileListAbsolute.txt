@@ -1,0 +1,21 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\bin\Debug\1.67.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\bin\Debug\1.67.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\bin\Debug\1.67.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\obj\Debug\Block encryption.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\obj\Debug\Block encryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\obj\Debug\_1._67.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\obj\Debug\_1._67.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\obj\Debug\Block encryption.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\obj\Debug\Block encryption.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\obj\Debug\1.67.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\1.67\1.67\1.67\obj\Debug\1.67.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\bin\Debug\1.67.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\bin\Debug\1.67.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\bin\Debug\1.67.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\obj\Debug\Block encryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\obj\Debug\_1._67.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\obj\Debug\_1._67.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\obj\Debug\Block encryption.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\obj\Debug\Block encryption.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\obj\Debug\1.67.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\synchronization objects\Multithreaded Applications\BlockEncryption\obj\Debug\1.67.pdb

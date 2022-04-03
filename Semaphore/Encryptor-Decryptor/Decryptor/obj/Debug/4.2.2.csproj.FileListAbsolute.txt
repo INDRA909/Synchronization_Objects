@@ -1,0 +1,21 @@
+C:\Users\Иван\Desktop\ЗОС\4.2.2\obj\Debug\4.2.2.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\ЗОС\4.2.2\obj\Debug\_4._2._1.Form1.resources
+C:\Users\Иван\Desktop\ЗОС\4.2.2\obj\Debug\_4._2._2.Properties.Resources.resources
+C:\Users\Иван\Desktop\ЗОС\4.2.2\obj\Debug\4.2.2.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\ЗОС\4.2.2\obj\Debug\4.2.2.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\ЗОС\4.2.2\bin\Debug\4.2.2.exe.config
+C:\Users\Иван\Desktop\ЗОС\4.2.2\bin\Debug\4.2.2.exe
+C:\Users\Иван\Desktop\ЗОС\4.2.2\bin\Debug\4.2.2.pdb
+C:\Users\Иван\Desktop\ЗОС\4.2.2\obj\Debug\4.2.2.exe
+C:\Users\Иван\Desktop\ЗОС\4.2.2\obj\Debug\4.2.2.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\bin\Debug\4.2.2.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\bin\Debug\4.2.2.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\bin\Debug\4.2.2.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\obj\Debug\4.2.2.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\obj\Debug\4.2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\obj\Debug\_4._2._1.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\obj\Debug\_4._2._2.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\obj\Debug\4.2.2.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\obj\Debug\4.2.2.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\obj\Debug\4.2.2.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\ЗОС\4.2.2\obj\Debug\4.2.2.pdb
